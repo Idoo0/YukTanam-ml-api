@@ -7,8 +7,7 @@ This project is a Flask-based REST API designed to predict plant diseases using 
 ## Folder Structure
 
 ```
-pd-restapi
-├── .env
+YukTanam-ml-api
 ├── .env.example
 ├── .gitignore
 ├── app.py                 # Main application file
