@@ -45,7 +45,7 @@ pd-restapi
 
 ```bash
 git clone https://github.com/Idoo0/YukTanam-ml-api
-cd pd-restapi
+cd YukTanam-ml-api
 ```
 
 2. Install dependencies:
