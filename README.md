@@ -122,11 +122,6 @@ Feel free to fork this project, create a feature branch, and submit a pull reque
 
 ---
 
-## License
-
-Feel free to fork this project, create a feature branch, and submit a pull request.
-
----
 
 ## License
 
