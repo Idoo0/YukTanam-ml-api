@@ -1,0 +1,6 @@
+.env
+static/uploads/*
+__pycache__
+
+# keep gitkeep
+!static/uploads/.gitkeep
