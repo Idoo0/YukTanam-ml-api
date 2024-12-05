@@ -103,6 +103,11 @@ Upload an image file with the key `file`.
 
 ---
 
+## Postman Guide
+Example for access api from postman:
+
+![example](images/postman-guide.png)
+
 ## Troubleshooting
 
 - Ensure the required Python dependencies are installed.
