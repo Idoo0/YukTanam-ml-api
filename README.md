@@ -7,8 +7,7 @@ This project is a Flask-based REST API designed to predict plant diseases using 
 ## Folder Structure
 
 ```
-pd-restapi
-├── .env
+YukTanam-ml-api
 ├── .env.example
 ├── .gitignore
 ├── app.py                 # Main application file
@@ -45,7 +44,7 @@ pd-restapi
 
 ```bash
 git clone https://github.com/Idoo0/YukTanam-ml-api
-cd pd-restapi
+cd YukTanam-ml-api
 ```
 
 2. Install dependencies:
@@ -122,11 +121,6 @@ Feel free to fork this project, create a feature branch, and submit a pull reque
 
 ---
 
-## License
-
-Feel free to fork this project, create a feature branch, and submit a pull request.
-
----
 
 ## License
 
