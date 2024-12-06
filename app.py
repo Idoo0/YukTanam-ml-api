@@ -45,7 +45,7 @@ def prediksi_gambar():
         response_json = json.dumps(result, ensure_ascii=False)
         return Response(response_json, content_type='application/json')
         
-        return jsonify(result)
+        # return jsonify(result)
 
     return jsonify({"error": "File upload failed"}), 500
 
