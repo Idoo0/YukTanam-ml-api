@@ -16,7 +16,7 @@ class Predictor:
         self._prepareChain()
         self._prepareModel()
         self.class_names = [
-            'Anthracnose', 'Bacterial_spot', 'Black_Rot', 'Black_Spot', 'Brown_Leaf_Tips',
+            'Bacterial_spot', 'Black_Rot', 'Black_Spot', 'Brown_Leaf_Tips',
             'Downy_Mildew', 'Early_Blight', 'Healthy', 'Late_Blight', 'Leaf_Scorch',
             'Leaf_Spot', 'Powdery_Mildew', 'Rust', 'Spider_Mite', 'Wilted_plant', 'Yellow_leaves'
         ]
